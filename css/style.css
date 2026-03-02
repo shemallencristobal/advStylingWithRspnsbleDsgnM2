@@ -123,6 +123,10 @@ img{
     }
 }
 
+.banner {
+    justify-content: center;
+    align-items: center;
+}
 
 /* .button {
     display: inline-block;
